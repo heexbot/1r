@@ -1,6 +1,6 @@
-token=NDYzNTYyMjgyODUzNDY2MTUy.DuWbUQ.CGJAkcmXmwNCpJvCCfBC3yzZasA
+token=NTE5NTE4NzAwNDU4NzM3NzI0.DugfQg.wK8EKkckQlCIX1hW5QrZ6KbgO2Y
 owner=503547627346984960
-prefix= H
-game= .henry
+prefix= 1
+game= 1play,1help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
